@@ -4,4 +4,6 @@ The purpose of this project is to automate the analysis of large datasets of qua
 
 Limitations: The code was written with the assumption that the data provided will always be provided sorted by ticker symbol, then by trade date. Also, the data provided will consist of a full quarter's data per worksheet.
 
-Any questions? Feel free to send a message to acdlc4@gmail.com with any questions / comments / concerns.
+Any questions? 
+
+Feel free to send a message to acdlc4@gmail.com with any questions / comments / concerns.
