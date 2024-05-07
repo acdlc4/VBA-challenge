@@ -5,7 +5,7 @@ Sub QtrlyStockAnalysis()
 
 
 'PURPOSE: Analyze a list of daily stock prices (sorted in order by ticker and date ascending)
-'       for quarterly changes in price, percentage change, and total shares traded
+'         for quarterly changes in price, percentage change, and total shares traded
 
 
 Dim number_sheets As Integer
@@ -73,9 +73,11 @@ For A = 2 To number_rows
         BegQtrPrice = Cells(A + 1, 3).Value
         TotVol = 0
         
+        'Set next row value for next ticker in summary analysis section
         B = B + 1
         
     Else
+        'Accumulation of Total Stock Volume for each unique ticker, looped
         TotVol = TotVol + Cells(A, 7).Value
      
     End If
