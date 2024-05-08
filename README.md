@@ -8,4 +8,4 @@ Any questions?
 
 Feel free to send a message to acdlc4@gmail.com with any questions / comments / concerns.
 
-Inspiration and credit for any code used was obtained from work done during NU Bootcamp class sessions.
+Inspiration and credit for any code used was obtained from work done during my attendance in 2024 Northwestern University Data Analysis Bootcamp class sessions.
